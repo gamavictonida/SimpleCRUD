@@ -22,7 +22,7 @@
 					</div>
 
 					<button type="submit" class="btn btn-default">Submit</button>
-				</form>
+				</form> 
         
     </body>
 </html>
